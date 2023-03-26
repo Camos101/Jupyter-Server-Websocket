@@ -1,4 +1,4 @@
-call "C:\Users\Corey_McRae\anaconda3\condabin\activate.bat"
+call "C:\Users\user_name\anaconda3\condabin\activate.bat"
 jupyter notebook \ 
     --NotebookApp.allow_origin='https://colab.research.google.com' \ 
     --port=8888 \ 
