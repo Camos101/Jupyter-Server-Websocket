@@ -17,11 +17,11 @@ Use the following command and flags.:
 
 `jupyter notebook \`
     
-    `--NotebookApp.allow_origin='https://colab.research.google.com' \` 
+   ` --NotebookApp.allow_origin='https://colab.research.google.com' \` 
     
-    `--port=8888 \`
+   ` --port=8888 \`
     
-    `--NotebookApp.port_retries=0`
+   ` --NotebookApp.port_retries=0`
  
  `call activate your_env`
 
