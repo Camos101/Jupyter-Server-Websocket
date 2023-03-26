@@ -3,7 +3,8 @@ Install:
 Step 1: `Install Jupyter`
 The easiest way is by getting the latest version of [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator/):
 
-*Newb note* 
+***Newb note* 
+
 *make sure the User directory to lead it to has no spaces in the username.*
 
 `conda install -c conda-forge jupyterlab`
