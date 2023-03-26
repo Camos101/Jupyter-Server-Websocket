@@ -1,7 +1,7 @@
 # Jupyter-Server-Websocket
 Install:
 Step 1: `Install Jupyter`
-The easiest way is by getting the latest version of `[Anaconda](https://anaconda.org/anaconda/anaconda-navigator)`:
+The easiest way is by getting the latest version of `[Anaconda](https://anaconda.org/anaconda/anaconda-navigator)`[Anaconda](https://anaconda.org/anaconda/anaconda-navigator/):
 
 `conda install -c conda-forge jupyterlab`
 
