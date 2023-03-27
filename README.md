@@ -18,15 +18,6 @@ make sure the `User` directory to lead it to has no spaces in the username.
 ```
 
 ```
-git
-
-`conda install -c conda-forge jupyterlab`
-
-or pip:
-
-`pip install jupyterlab`
-
-
 
 # Step 2: 
 Start a local Jupyter server
