@@ -24,7 +24,7 @@ as opposed to this
 
 
 
-simply create a new user in `Microsoft settings` in `"Accounts"`, `"Emails and Accounts"` then, `"Add an Account"` and lead the installation to that new user folder.
+simply create a new user in `Microsoft settings` in `"Accounts"`, `"Families & other users"` then, `"Add someone else to this PC"` and lead the installation to that new user folder.
 
 works for me.
 
