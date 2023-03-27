@@ -25,7 +25,7 @@ then
 or pip:
 
 `pip install jupyterlab`
-
+```
 
 # Step 2: 
 Start a local Jupyter server
