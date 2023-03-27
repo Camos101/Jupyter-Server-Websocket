@@ -55,7 +55,9 @@ Now you have a convenient way to bring up the command without bringing up the pr
 
 
 
-# Step 3: Use the localhost token URL. The actual IP URL didn't work.
+# Step 3:
+
+Use the localhost token URL. The actual IP URL didn't work.
 At least it didn't for me.
 
 
