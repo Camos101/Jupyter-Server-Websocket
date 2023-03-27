@@ -12,9 +12,15 @@ The easiest way is by getting the latest version of [Anaconda Navigator](https:/
 ## *Newb Note 
 
 
-make sure that the `User` directory when installing Anaconda Navigator leads to has no spaces in the username.
+make sure that the `Username` directory you're installing Anaconda Navigator to leads has no spaces inbetween the username.
+
+like
 
 `(example: "C:\Users\*user_name*\anaconda3")`
+
+as opposed to this
+
+`(example: "C:\Users\user name\anaconda3")`
 
 simply create a new user in `Microsoft settings` in `"Accounts"`, `"Emails and Accounts"` then, `"Add an Account"` and lead the installation to that new user folder.
 
