@@ -43,6 +43,19 @@ or pip:
 # Step 2: 
 Start a local Jupyter server
 Now, we need a local Jupyter server that trusts WebSocket connections from the Colab frontend. 
+
+** Install the Colab Jupyter HTTP-over-WebSocket extension **
+
+
+`pip install --upgrade jupyter_http_over_ws>=0.0.7`
+
+
+now
+
+
+to make to make the .bat file
+
+
 Use the following command and flags.:
 
 
@@ -63,6 +76,11 @@ Use the following command and flags.:
 Then, place it in a .txt file and then, change the extention to .bat.
 
 
+
+or
+
+
+just download the file provided.
 
 
 
