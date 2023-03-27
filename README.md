@@ -18,7 +18,7 @@ make sure the `User` directory to lead it to has no spaces in the username.
 ```
 
 ```
-`git`
+git
 
 `install -c conda-forge jupyterlab`
 
