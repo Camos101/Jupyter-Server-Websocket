@@ -40,10 +40,17 @@ Step 3: Use the localhost token URL. The actual IP URL didn't work.
 At least it didn't for me.
 
 Step 4:
-Paste the URL in "Connect to a Local Runtime" and click "Connect".
-It won't work but if you "Connect to Hosted Runtime" and press "Connect" it will take you to the "Cannot Connect to GPU backend" as normal.
-Choose "Connect without GPU" but, instead of it restarting the runtime it will resume. 
+Paste the URL in `"Connect to a Local Runtime"` and click `"Connect"`.
+It won't work but if you `"Connect to Hosted Runtime"` and press `"Connect"` it will take you to the `"Cannot Connect to GPU backend"` as normal.
+Choose `"Connect without GPU"` but, instead of it restarting the runtime it will resume. 
+
 Your session will retain whatever you saved into the folder in Colab as well.
+
+
+**Warning**
+Still save models, audio, photos, etc. because, I just made this thing and don't know how stable it is so this should buy you time to do that.
+
+Don't chance it.
 
 
 
