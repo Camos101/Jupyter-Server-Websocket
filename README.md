@@ -33,6 +33,7 @@ Start a local Jupyter server
 Now, we need a local Jupyter server that trusts WebSocket connections from the Colab frontend. 
 Use the following command and flags.:
 
+
 `call "C:\Users\user_name\anaconda3\condabin\activate.bat"`
 
 `jupyter notebook \`
