@@ -41,7 +41,8 @@ At least it didn't for me.
 
 Step 4:
 Paste the URL in `"Connect to a Local Runtime"` and click `"Connect"`.
-It won't work but if you `"Connect to Hosted Runtime"` and press `"Connect"` it will take you to the `"Cannot Connect to GPU backend"` as normal.
+It won't work but if you `"Connect to Hosted Runtime"` and press `"Connect"`. 
+It will take you to the `"Cannot Connect to GPU backend"` as normal once your session ends.
 Choose `"Connect without GPU"` but, instead of it restarting the runtime it will resume. 
 
 Your session will retain whatever you saved into the folder in Colab as well.
