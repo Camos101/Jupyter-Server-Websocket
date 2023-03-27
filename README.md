@@ -22,6 +22,8 @@ as opposed to this
 
 `(example: "C:\Users\user name\anaconda3")`
 
+
+
 simply create a new user in `Microsoft settings` in `"Accounts"`, `"Emails and Accounts"` then, `"Add an Account"` and lead the installation to that new user folder.
 
 works for me.
