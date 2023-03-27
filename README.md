@@ -49,6 +49,11 @@ Now, we need a local Jupyter server that trusts WebSocket connections from the C
 
 `pip install --upgrade jupyter_http_over_ws>=0.0.7`
 
+then enable it
+
+
+`jupyter serverextension enable --py jupyter_http_over_ws`
+
 
 now
 
