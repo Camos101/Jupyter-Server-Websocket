@@ -15,6 +15,7 @@ The easiest way is by getting the latest version of [Anaconda Navigator](https:/
 make sure that the `User` directory when installing Anaconda Navigator leads to has no spaces in the username.
 
 `(example: "C:\Users\ ** user_name ** \anaconda3")`
+
 simply create a new user in Windows setting and lead the instalation to that new user folder.
 Works for me.
 
