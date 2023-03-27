@@ -47,7 +47,8 @@ Choose `"Connect without GPU"` but, instead of it restarting the runtime it will
 Your session will retain whatever you saved into the folder in Colab as well.
 
 
-**Warning**
+***Warning***
+
 Still save models, audio, photos, etc. because, I just made this thing and don't know how stable it is so this should buy you time to do that.
 
 Don't chance it.
