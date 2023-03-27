@@ -16,7 +16,7 @@ make sure that the `User` directory when installing Anaconda Navigator leads to 
 
 `(example: "C:\Users\*user_name*\anaconda3")`
 
-simply create a new user in Windows setting in "Accounts", "Emails and Accounts" then, "Add an Account" and lead the instalation to that new user folder.
+simply create a new user in `Microsoft settings` in `"Accounts"`, `"Emails and Accounts"` then, `"Add an Account"` and lead the instalation to that new user folder.
 
 works for me.
 
