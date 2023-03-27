@@ -5,6 +5,7 @@
 
 # Step 1:
 `Install Jupyter`
+
 The easiest way is by getting the latest version of [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator/):
 
 
