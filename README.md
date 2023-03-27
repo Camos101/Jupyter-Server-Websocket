@@ -15,17 +15,17 @@ The easiest way is by getting the latest version of [Anaconda Navigator](https:/
 make sure the `User` directory to lead it to has no spaces in the username.
 
 `(example: "C:\Users\ ** user_name ** \anaconda3")`
-```
-```
+
+
 then
 
-```
+
 `conda install -c conda-forge jupyterlab`
-```
+
 or pip:
-```
+
 `pip install jupyterlab`
-```
+
 
 
 # Step 2: 
