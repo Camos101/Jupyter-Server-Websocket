@@ -21,11 +21,12 @@ then
 
 ```
 `conda install -c conda-forge jupyterlab`
-
+```
 or pip:
-
+```
 `pip install jupyterlab`
 ```
+
 
 # Step 2: 
 Start a local Jupyter server
